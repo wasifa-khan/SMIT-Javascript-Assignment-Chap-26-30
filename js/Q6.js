@@ -1,0 +1,1 @@
+document.write("random no between 1 and 100 is: "+ Math.round(Math.random()*100))
